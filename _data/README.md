@@ -9,8 +9,11 @@
 - item 2 
 
 * item 
+
 *item*
+
 **item**
+
 _item_ 
 
 [here is a link](github.com)
